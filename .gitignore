@@ -1,0 +1,44 @@
+# Directories #
+build/
+bin/
+target/
+doc/
+template/
+
+# ignoro el apidoc
+apidoc.json
+
+ 
+# OS Files #
+.DS_Store
+ 
+*.class
+ 
+# Package Files #
+*.war
+*.ear
+*.db
+
+ 
+######################
+# Windows
+######################
+ 
+# Windows image file caches
+Thumbs.db 
+ 
+# Folder config file
+Desktop.ini
+ 
+ 
+# Thumbnails
+._*
+ 
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+ 
+######################
+# NetBeans
+######################
+nb-configuration.xml
